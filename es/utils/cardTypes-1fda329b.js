@@ -16,7 +16,7 @@ var CARD_TYPES = [{
   displayName: 'Mastercard',
   type: 'mastercard',
   format: DEFAULT_CARD_FORMAT,
-  startPattern: /^(5[1-5]|677189)|^(222[1-9]|2[3-6]\d{2}|27[0-1]\d|2720)/,
+  startPattern: /^(51|52|53|54|55|22|23|24|25|26|27)/,
   gaps: [4, 8, 12],
   lengths: [16],
   code: {
