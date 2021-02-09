@@ -90,7 +90,7 @@ export const CARD_TYPES = [
     displayName: 'Maestro',
     type: 'maestro',
     format: DEFAULT_CARD_FORMAT,
-    startPattern: /^(5018|5020|5038|6304|6703|6708|6759|676[1-3])/,
+    startPattern: /^(5018|5020|5038|6304|6703|6708|6759|676[1-3]|67)/,
     gaps: [4, 8, 12],
     lengths: [12, 13, 14, 15, 16, 17, 18, 19],
     code: {
