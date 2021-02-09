@@ -1,0 +1,6 @@
+{
+  "name": "react-payment-inputs/PaymentInputsContainer",
+  "private": true,
+  "main": "../lib/PaymentInputsContainer",
+  "module": "../es/PaymentInputsContainer"
+}

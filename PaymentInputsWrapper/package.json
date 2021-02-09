@@ -1,0 +1,6 @@
+{
+  "name": "react-payment-inputs/PaymentInputsWrapper",
+  "private": true,
+  "main": "../lib/PaymentInputsWrapper",
+  "module": "../es/PaymentInputsWrapper"
+}
